@@ -14,7 +14,7 @@ pointer.setheading(0);
 
 
 # pointer.pensize(20)
-number_of_dots = 5000;
+number_of_dots = 3500;
 
 for x in range(1, number_of_dots +1):
     color = random.choice(rgb_colors);
